@@ -2,6 +2,8 @@
   "name": "threejs-dfx-load",
   "version": "1.0.0",
   "description": "",
+  "private": true,
+  "author": "Mystro Ken <mystroken@gmail.com>",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

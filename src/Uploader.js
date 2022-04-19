@@ -12,7 +12,6 @@ export const Uploader = () => {
   // On file select (from the pop up)
   const onFileChange = (event) => {
     // Update the state
-    console.log(event.target.files[0], setSelectedFile);
     setSelectedFile(event.target.files[0]);
   };
 
